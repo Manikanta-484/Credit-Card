@@ -50,7 +50,7 @@ You can customize the card details such as card number, cardholder name, and val
 
 ## Screenshot
 
-![Screenshot](credit card/images/screenshot.png)
+![Screenshot](/credit card/images/screenshot.png)
 
 ## Contributing
 
