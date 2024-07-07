@@ -15,15 +15,15 @@ body{
     background-color: #e3f2fd;
 }
 .container{
-    position: relative;
-    background-image: url("images/bg.png");
+/*     position: relative;*/
+    background-image: url("images/bg.png"); 
     background-size: cover;
     padding: 25px;
     border-radius: 28px;
     max-width: 380px;
     width: 100%;
-    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
-}
+/*     box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);*/
+} 
 header,.logo{
     display: flex;
     align-items: center;
