@@ -56,12 +56,8 @@ You can customize the card details such as card number, cardholder name, and val
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - The project uses the [Poppins](https://fonts.google.com/specimen/Poppins) font from Google Fonts.
-- Card background image from [source].
-- Card chip image from [source].
+- Card background image from [google].
+- Card chip image from [google].
