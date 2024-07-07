@@ -22,7 +22,7 @@ You will need a web browser to open the `index.html` file and view the design.
 
 1. Clone the repository
     ```bash
-    git clone https://github.com/Manikanta-484/credit-card-ui-design.git
+    git clone [https://github.com/Manikanta-484/Credit-Card/tree/main]
     ```
 2. Open the project directory
     ```bash
